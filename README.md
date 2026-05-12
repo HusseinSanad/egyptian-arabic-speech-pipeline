@@ -1,4 +1,4 @@
-##Egyptian Arabic Speech Dataset Pipeline (S.S.D.P.)
+## Egyptian Arabic Speech Dataset Pipeline (S.S.D.P.)
 
 ##Overview
 End-to-end pipeline for generating a high-quality Egyptian Arabic speech dataset for ASR/STT training.
