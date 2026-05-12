@@ -4,10 +4,12 @@
 
 End-to-end pipeline for generating a high-quality Egyptian Arabic speech dataset for ASR/STT training.
 The system covers:
+
 •   Synthetic prompt generation (templates + optional LLM) 
 •   Text-to-Speech synthesis (ElevenLabs) 
 •   Human-in-the-loop review (Streamlit) 
 •   Dataset export (train/val/test) 
+
 The main goal is to produce clean, diverse, and linguistically realistic Egyptian Arabic speech data.
   
 ## System Architecture
@@ -28,6 +30,7 @@ Train / Validation / Test Split
 
 configs/
     config.yaml
+    
 
 data/
     prompts.jsonl
@@ -36,6 +39,7 @@ data/
     train.jsonl
     val.jsonl
     test.jsonl
+    
 
 pipeline/
     generate_prompts.py
@@ -43,31 +47,43 @@ pipeline/
     review_tool.py
     export_dataset.py
     utils.py
+    
 
 tests/
     test_pipeline.py
+    
 
 README.md
 .env
 
-##Running the Pipeline
+
+## Running the Pipeline
+
 
 python pipeline/generate_prompts.py
 
+
 python pipeline/synthesize_tts.py
 
+
 python -m streamlit run pipeline/review_tool.py
+
 
 python pipeline/export_dataset.py
 
 ## Pipeline Stages
 
 1. Prompt Generation
+ 
 Generates Egyptian Arabic sentences using:
+
 •   Template-based generation (structured + controlled) 
+
 •   Optional LLM refinement (Gemini API) 
 Design Rationale
+
 •   Templates ensure coverage and consistency 
+
 •   LLM adds linguistic diversity and natural variation 
 Output
 data/prompts.jsonl
@@ -140,7 +156,7 @@ A sample is rejected if:
 •   Text ≠ audio mismatch 
 •   Grammar or structure is invalid 
 ________________________________________
- ##Automated Quality Signals (Pre-Review)
+## Automated Quality Signals (Pre-Review)
 Before human review, the system applies lightweight checks:
 •   Text length anomalies detection 
 •   Repetition detection 
@@ -148,7 +164,8 @@ Before human review, the system applies lightweight checks:
 •   Silent/empty audio detection (heuristic) 
 •   Domain balance tracking 
 ________________________________________
- ##Testing & Validation
+## Testing & Validation
+
 Unit Testing Covers:
 •   Prompt generation logic 
 •   JSONL structure validation 
@@ -159,7 +176,8 @@ External APIs
 •   Ensures deterministic testing 
 •   Avoids real API cost during tests 
 ________________________________________
- ##Reliability & Fault Tolerance
+## Reliability & Fault Tolerance
+
 1. Checkpointing
 Each stage writes intermediate results to disk.
 2. Resumable Execution
@@ -172,7 +190,8 @@ Avoids regenerating prompts or audio unnecessarily.
 Reduces API overhead and improves throughput.
 ________________________________________
  
-##Dataset Format
+## Dataset Format
+
 {
   "audio": "data/audio/eg_0001.mp3",
   "text": "انا في الطريق دلوقتي",
@@ -182,7 +201,8 @@ ________________________________________
   "source": "synthetic"
 }
 ________________________________________
- ##Duration Field
+## Duration Field
+
 •   Extracted from actual audio metadata 
 •   Not estimated from text 
 •   Used for: 
@@ -190,13 +210,15 @@ o   filtering extreme samples
 o   dataset balancing 
 o   training analysis 
 ________________________________________
- ##Observed Issues During Generation
+## Observed Issues During Generation
+
 •   TTS struggles with Egyptian slang 
 •   English code-switching often mispronounced 
 •   Repetitive phrasing from templates 
 •   Short utterances sometimes sound unnatural 
 ________________________________________
- ##Trade-offs
+## Trade-offs
+
 1. Templates vs LLM
 •   Templates → control & stability 
 •   LLM → diversity but less predictability 
@@ -206,7 +228,8 @@ ________________________________________
 •   Fully automated → noisy dataset 
 •   Human-in-loop → slower but higher quality 
 ________________________________________ 
-##Configuration
+## Configuration
+
 total_samples: 100
 seed: 42
 
@@ -219,19 +242,22 @@ domain_weights:
   emotions: 0.05
   work: 0.05
 ________________________________________
-##Environment Variables
+## Environment Variables
+
 GEMINI_API_KEY=xxx
 ELEVENLABS_API_KEY=xxx
 VOICE_ID=xxx
 ________________________________________
-##Tech Stack
+## Tech Stack
+
 •   Python 
 •   ElevenLabs TTS 
 •   Gemini API (optional) 
 •   Streamlit 
 •   JSONL data format 
 ________________________________________
-##Key Features
+## Key Features
+
 •   Egyptian Arabic dataset generation 
 •   Hybrid prompt generation (template + LLM) 
 •   Resumable TTS pipeline 
@@ -239,12 +265,14 @@ ________________________________________
 •   Fault-tolerant design 
 •   Train/val/test export 
 ________________________________________
- ##Dataset Output
+ ## Dataset Output
+ 
 •   Train set → model training 
 •   Validation set → tuning 
 •   Test set → evaluation 
 ________________________________________
- ##Future Improvements
+ ## Future Improvements
+ 
 •   Multi-speaker TTS support 
 •   Noise augmentation (real-world simulation) 
 •   Automatic quality scoring model 
@@ -252,11 +280,14 @@ ________________________________________
 •   Emotion-based speech synthesis 
 •   Larger scale distributed generation 
 
-##Final Note
+## Final Note
+
 
 This pipeline is designed to address the main bottleneck in Arabic STT systems:
+
  The pipeline focuses on generating high-quality and realistic Egyptian Arabic speech data suitable for downstream STT/ASR training workflows.
 It balances:
+
 •   scalability 
 •   linguistic realism 
 •   data quality control 
