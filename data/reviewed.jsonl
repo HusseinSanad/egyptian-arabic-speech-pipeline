@@ -1,0 +1,68 @@
+{"id": "eg_0001", "text": "انا في الطريق دلوقتي بس الزحمة شغالة جامد", "domain": "transportation", "audio_path": "data/audio\\eg_0001.mp3", "label": "accepted"}
+{"id": "eg_0003", "text": "هو انت بتفكر صح ولا بتتكلم جد؟", "domain": "casual_chat", "audio_path": "data/audio\\eg_0003.mp3", "label": "accepted"}
+{"id": "eg_0005", "text": "والله يا صاحبي انا هتأخر شوية في الرد النهارده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0005.mp3", "label": "accepted"}
+{"id": "eg_0007", "text": "لسه فاضلي شوية صغيرين واوصل", "domain": "transportation", "audio_path": "data/audio\\eg_0007.mp3", "label": "rejected"}
+{"id": "eg_0009", "text": "الماتش كان عظمة جدا ومفيهوش ملل خالص", "domain": "football", "audio_path": "data/audio\\eg_0009.mp3", "label": "accepted"}
+{"id": "eg_0011", "text": "بقولك ايه انا زهقان جدا من الصبح", "domain": "casual_chat", "audio_path": "data/audio\\eg_0011.mp3", "label": "accepted"}
+{"id": "eg_0013", "text": "جون امام عاشور قلب الماتش", "domain": "football", "audio_path": "data/audio\\eg_0013.mp3", "label": "rejected"}
+{"id": "eg_0015", "text": "انا قريب منك بس واقف في زحمة صعبة", "domain": "transportation", "audio_path": "data/audio\\eg_0015.mp3", "label": "accepted"}
+{"id": "eg_0017", "text": "الدنيا زحمة اوي النهارده", "domain": "transportation", "audio_path": "data/audio\\eg_0017.mp3", "label": "accepted"}
+{"id": "eg_0019", "text": "انا كنت تعبان شوية بس دلوقتي الوضع اتغير", "domain": "casual_chat", "audio_path": "data/audio\\eg_0019.mp3", "label": "accepted"}
+{"id": "eg_0021", "text": "عايز وجبة ساندوتش سجق ومعاها شاي بالنعناع كبير", "domain": "food_ordering", "audio_path": "data/audio\\eg_0021.mp3", "label": "rejected"}
+{"id": "eg_0023", "text": "محتاج الlink ضروري حالاً", "domain": "code_switching", "audio_path": "data/audio\\eg_0023.mp3", "label": "accepted"}
+{"id": "eg_0025", "text": "هجيلك بعد شوية صغيرين بس ممكن اتأخر شوية", "domain": "transportation", "audio_path": "data/audio\\eg_0025.mp3", "label": "accepted"}
+{"id": "eg_0027", "text": "الmanager طالب شغل كتير اوي", "domain": "work", "audio_path": "data/audio\\eg_0027.mp3", "label": "accepted"}
+{"id": "eg_0029", "text": "ابعتلي الemail بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "audio_path": "data/audio\\eg_0029.mp3", "label": "accepted"}
+{"id": "eg_0031", "text": "ممكن تبعتلي شاورما فراخ بسرعة عشان انا جعان جدا", "domain": "food_ordering", "audio_path": "data/audio\\eg_0031.mp3", "label": "accepted"}
+{"id": "eg_0033", "text": "العربية واقفة بقالها ساعة في الزحمة", "domain": "transportation", "audio_path": "data/audio\\eg_0033.mp3", "label": "accepted"}
+{"id": "eg_0035", "text": "بص يا عم انا بحاول اخلص اللي ورايا ومش فاضي للكلام ده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0035.mp3", "label": "accepted"}
+{"id": "eg_0037", "text": "اليوم كان صعب وخلاني زعلان", "domain": "emotions", "audio_path": "data/audio\\eg_0037.mp3", "label": "accepted"}
+{"id": "eg_0039", "text": "انا مرهق دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "audio_path": "data/audio\\eg_0039.mp3", "label": "rejected"}
+{"id": "eg_0041", "text": "اليوم كان صعب وخلاني متوتر", "domain": "emotions", "audio_path": "data/audio\\eg_0041.mp3", "label": "accepted"}
+{"id": "eg_0043", "text": "بقولك ايه انا تعبان شوية من الصبح", "domain": "casual_chat", "audio_path": "data/audio\\eg_0043.mp3", "label": "accepted"}
+{"id": "eg_0045", "text": "عايز اطلب شاورما فراخ مع شاي بالنعناع لو ينفع كده", "domain": "food_ordering", "audio_path": "data/audio\\eg_0045.mp3", "label": "accepted"}
+{"id": "eg_0047", "text": "هو انت فاهم اللي بيحصل ولا بتتكلم جد؟", "domain": "casual_chat", "audio_path": "data/audio\\eg_0047.mp3", "label": "accepted"}
+{"id": "eg_0049", "text": "والله يا صاحبي انا نازل دلوقتي من البيت النهارده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0049.mp3", "label": "accepted"}
+{"id": "eg_0051", "text": "نفسي اكل برجر دوبل من زمان", "domain": "food_ordering", "audio_path": "data/audio\\eg_0051.mp3", "label": "accepted"}
+{"id": "eg_0053", "text": "نفسي اكل فراخ مشوية من زمان", "domain": "food_ordering", "audio_path": "data/audio\\eg_0053.mp3", "label": "accepted"}
+{"id": "eg_0055", "text": "انا تعبان شوية دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "audio_path": "data/audio\\eg_0055.mp3", "label": "accepted"}
+{"id": "eg_0057", "text": "عايز وجبة كشري كبير ومعاها عصير برتقان كبير", "domain": "food_ordering", "audio_path": "data/audio\\eg_0057.mp3", "label": "rejected"}
+{"id": "eg_0059", "text": "عايز اطلب شاورما فراخ مع قهوة ساقعة لو ينفع كده", "domain": "food_ordering", "audio_path": "data/audio\\eg_0059.mp3", "label": "rejected"}
+{"id": "eg_0061", "text": "والله يا صاحبي انا مشغول جدا اليومين دول النهارده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0061.mp3", "label": "accepted"}
+{"id": "eg_0063", "text": "مش فاهم انت حاسس باللي بقوله ازاي بصراحة", "domain": "casual_chat", "audio_path": "data/audio\\eg_0063.mp3", "label": "accepted"}
+{"id": "eg_0065", "text": "لو سمحت ابعتلي برجر دوبل قبل ما انام", "domain": "food_ordering", "audio_path": "data/audio\\eg_0065.mp3", "label": "accepted"}
+{"id": "eg_0067", "text": "مش لاقي الemail ممكن تساعدني", "domain": "code_switching", "audio_path": "data/audio\\eg_0067.mp3", "label": "accepted"}
+{"id": "eg_0069", "text": "مش قادر ابطل تفكير وحاسس اني مضغوط في الشغل", "domain": "emotions", "audio_path": "data/audio\\eg_0069.mp3", "label": "accepted"}
+{"id": "eg_0071", "text": "الحكم كان نار وده اثر على اللعب", "domain": "football", "audio_path": "data/audio\\eg_0071.mp3", "label": "rejected"}
+{"id": "eg_0073", "text": "الاهلي كان عامل ماتش ممل شوية بصراحة", "domain": "football", "audio_path": "data/audio\\eg_0073.mp3", "label": "accepted"}
+{"id": "eg_0075", "text": "ابعتلي الmeeting بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "audio_path": "data/audio\\eg_0075.mp3", "label": "accepted"}
+{"id": "eg_0077", "text": "بص يا عم انا مشغول جدا اليومين دول ومش فاضي للكلام ده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0077.mp3", "label": "accepted"}
+{"id": "eg_0079", "text": "انا مبسوط جدا ومش عارف اتعامل مع الموقف ده", "domain": "emotions", "audio_path": "data/audio\\eg_0079.mp3", "label": "accepted"}
+{"id": "eg_0081", "text": "مش قادر ابطل تفكير وحاسس اني زهقان جدا", "domain": "emotions", "audio_path": "data/audio\\eg_0081.mp3", "label": "accepted"}
+{"id": "eg_0083", "text": "شوفت هدف الشحات امبارح كان حاجة مش طبيعية", "domain": "football", "audio_path": "data/audio\\eg_0083.mp3", "label": "accepted"}
+{"id": "eg_0085", "text": "الحكم كان تحفة وده اثر على اللعب", "domain": "football", "audio_path": "data/audio\\eg_0085.mp3", "label": "rejected"}
+{"id": "eg_0087", "text": "ابعتلي الfile بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "audio_path": "data/audio\\eg_0087.mp3", "label": "accepted"}
+{"id": "eg_0089", "text": "لو سمحت ابعتلي كشري كبير قبل ما انام", "domain": "food_ordering", "audio_path": "data/audio\\eg_0089.mp3", "label": "accepted"}
+{"id": "eg_0091", "text": "عندي call مهم بعد شوية ولازم اكون جاهز", "domain": "work", "audio_path": "data/audio\\eg_0091.mp3", "label": "accepted"}
+{"id": "eg_0093", "text": "ابعتلي email او الfile لو جاهز", "domain": "code_switching", "audio_path": "data/audio\\eg_0093.mp3", "label": "accepted"}
+{"id": "eg_0095", "text": "لسه فاضلي ربع ساعة واوصل", "domain": "transportation", "audio_path": "data/audio\\eg_0095.mp3", "label": "rejected"}
+{"id": "eg_0097", "text": "لسه فاضلي 10 دقايق واوصل", "domain": "transportation", "audio_path": "data/audio\\eg_0097.mp3", "label": "rejected"}
+{"id": "eg_0099", "text": "والله يا صاحبي انا بحاول اخلص اللي ورايا النهارده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0099.mp3", "label": "accepted"}
+{"id": "eg_0004", "text": "بعتلك الfile بص عليه", "domain": "code_switching", "audio_path": "data/audio\\eg_0004.mp3", "label": "accepted"}
+{"id": "eg_0010", "text": "ابعتلي email او الlink لو جاهز", "domain": "code_switching", "audio_path": "data/audio\\eg_0010.mp3", "label": "accepted"}
+{"id": "eg_0016", "text": "يعني انت شايف اني ضعيف كده ولا ايه", "domain": "casual_chat", "audio_path": "data/audio\\eg_0016.mp3", "label": "accepted"}
+{"id": "eg_0024", "text": "اليوم كان صعب وخلاني مبسوط", "domain": "emotions", "audio_path": "data/audio\\eg_0024.mp3", "label": "rejected"}
+{"id": "eg_0030", "text": "الماتش امبارح كان تحفة", "domain": "football", "audio_path": "data/audio\\eg_0030.mp3", "label": "accepted"}
+{"id": "eg_0036", "text": "اليوم كله meetings وصداع", "domain": "work", "audio_path": "data/audio\\eg_0036.mp3", "label": "accepted"}
+{"id": "eg_0042", "text": "جون عبدالله السعيد قلب الماتش", "domain": "football", "audio_path": "data/audio\\eg_0042.mp3", "label": "rejected"}
+{"id": "eg_0048", "text": "بص يا عم انا نازل دلوقتي من البيت ومش فاضي للكلام ده", "domain": "casual_chat", "audio_path": "data/audio\\eg_0048.mp3", "label": "accepted"}
+{"id": "eg_0054", "text": "انا مضغوط في الشغل دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "audio_path": "data/audio\\eg_0054.mp3", "label": "accepted"}
+{"id": "eg_0060", "text": "عايز وجبة برجر دوبل ومعاها بيبسي ساقع كبير", "domain": "food_ordering", "audio_path": "data/audio\\eg_0060.mp3", "label": "accepted"}
+{"id": "eg_0066", "text": "هات ساندوتش سجق وكمان عصير برتقان ساقع", "domain": "food_ordering", "audio_path": "data/audio\\eg_0066.mp3", "label": "accepted"}
+{"id": "eg_0072", "text": "لو سمحت ابعتلي شاورما فراخ قبل ما انام", "domain": "food_ordering", "audio_path": "data/audio\\eg_0072.mp3", "label": "accepted"}
+{"id": "eg_0078", "text": "هات ساندوتش سجق وكمان شاي بالنعناع ساقع", "domain": "food_ordering", "audio_path": "data/audio\\eg_0078.mp3", "label": "rejected"}
+{"id": "eg_0084", "text": "ابعتلي email او الdocument لو جاهز", "domain": "code_switching", "audio_path": "data/audio\\eg_0084.mp3", "label": "accepted"}
+{"id": "eg_0090", "text": "انا كنت مركز بصعوبة بس دلوقتي الوضع اتغير", "domain": "casual_chat", "audio_path": "data/audio\\eg_0090.mp3", "label": "accepted"}
+{"id": "eg_0096", "text": "عايز اطلب ساندوتش سجق مع شاي بالنعناع لو ينفع كده", "domain": "food_ordering", "audio_path": "data/audio\\eg_0096.mp3", "label": "rejected"}
+{"id": "eg_0008", "text": "عايز وجبة فراخ مشوية ومعاها شاي بالنعناع كبير", "domain": "food_ordering", "audio_path": "data/audio\\eg_0008.mp3", "label": "accepted"}
+{"id": "eg_0020", "text": "عايز اطلب كشري كبير مع بيبسي ساقع لو ينفع كده", "domain": "food_ordering", "audio_path": "data/audio\\eg_0020.mp3", "label": "accepted"}

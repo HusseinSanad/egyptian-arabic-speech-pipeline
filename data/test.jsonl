@@ -1,0 +1,6 @@
+{"audio": "data/audio/eg_0037.mp3", "text": "اليوم كان صعب وخلاني زعلان", "domain": "emotions", "duration": 2.0, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0043.mp3", "text": "بقولك ايه انا تعبان شوية من الصبح", "domain": "casual_chat", "duration": 2.8, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0060.mp3", "text": "عايز وجبة برجر دوبل ومعاها بيبسي ساقع كبير", "domain": "food_ordering", "duration": 3.2, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0003.mp3", "text": "هو انت بتفكر صح ولا بتتكلم جد؟", "domain": "casual_chat", "duration": 2.8, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0019.mp3", "text": "انا كنت تعبان شوية بس دلوقتي الوضع اتغير", "domain": "casual_chat", "duration": 3.2, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0004.mp3", "text": "بعتلك الfile بص عليه", "domain": "code_switching", "duration": 1.6, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}

@@ -1,0 +1,17 @@
+total_samples:  100
+
+# reproducibility
+seed: 42
+
+# output path
+output_path: data/prompts.jsonl
+
+# domain sampling weights
+domain_weights:
+  casual_chat: 0.25
+  food_ordering: 0.2
+  transportation: 0.2
+  code_switching: 0.15
+  football: 0.1
+  emotions: 0.05
+  work: 0.05

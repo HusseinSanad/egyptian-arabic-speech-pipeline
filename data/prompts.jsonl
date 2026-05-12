@@ -1,0 +1,100 @@
+{"id": "eg_0001", "text": "انا في الطريق دلوقتي بس الزحمة شغالة جامد", "domain": "transportation", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0002", "text": "انا داخل call دلوقتي ومش هعرف ارد", "domain": "code_switching", "word_count": 7, "contains_code_switching": true}
+{"id": "eg_0003", "text": "هو انت بتفكر صح ولا بتتكلم جد؟", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0004", "text": "بعتلك الfile بص عليه", "domain": "code_switching", "word_count": 4, "contains_code_switching": true}
+{"id": "eg_0005", "text": "والله يا صاحبي انا هتأخر شوية في الرد النهارده", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0006", "text": "انا كنت مضغوط في الشغل بس دلوقتي الوضع اتغير", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0007", "text": "لسه فاضلي شوية صغيرين واوصل", "domain": "transportation", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0008", "text": "عايز وجبة فراخ مشوية ومعاها شاي بالنعناع كبير", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0009", "text": "الماتش كان عظمة جدا ومفيهوش ملل خالص", "domain": "football", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0010", "text": "ابعتلي email او الlink لو جاهز", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0011", "text": "بقولك ايه انا زهقان جدا من الصبح", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0012", "text": "هو انت بتتكلم بجد ولا بتتكلم جد؟", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0013", "text": "جون امام عاشور قلب الماتش", "domain": "football", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0014", "text": "الدفاع كان مش حلو خالص بصراحة", "domain": "football", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0015", "text": "انا قريب منك بس واقف في زحمة صعبة", "domain": "transportation", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0016", "text": "يعني انت شايف اني ضعيف كده ولا ايه", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0017", "text": "الدنيا زحمة اوي النهارده", "domain": "transportation", "word_count": 4, "contains_code_switching": false}
+{"id": "eg_0018", "text": "هاتلي ساندوتش سجق بس يكون سخن وطازة لو سمحت", "domain": "food_ordering", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0019", "text": "انا كنت تعبان شوية بس دلوقتي الوضع اتغير", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0020", "text": "عايز اطلب كشري كبير مع بيبسي ساقع لو ينفع كده", "domain": "food_ordering", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0021", "text": "عايز وجبة ساندوتش سجق ومعاها شاي بالنعناع كبير", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0022", "text": "بقولك ايه انا مضغوط في الشغل من الصبح", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0023", "text": "محتاج الlink ضروري حالاً", "domain": "code_switching", "word_count": 4, "contains_code_switching": true}
+{"id": "eg_0024", "text": "اليوم كان صعب وخلاني مبسوط", "domain": "emotions", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0025", "text": "هجيلك بعد شوية صغيرين بس ممكن اتأخر شوية", "domain": "transportation", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0026", "text": "الطريق زحمة جدا ومش عارف اوصل بسرعة", "domain": "transportation", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0027", "text": "الmanager طالب شغل كتير اوي", "domain": "work", "word_count": 5, "contains_code_switching": true}
+{"id": "eg_0028", "text": "خش الmeeting بسرعة", "domain": "code_switching", "word_count": 3, "contains_code_switching": true}
+{"id": "eg_0029", "text": "ابعتلي الemail بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0030", "text": "الماتش امبارح كان تحفة", "domain": "football", "word_count": 4, "contains_code_switching": false}
+{"id": "eg_0031", "text": "ممكن تبعتلي شاورما فراخ بسرعة عشان انا جعان جدا", "domain": "food_ordering", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0032", "text": "مش لاقي الmeeting ممكن تساعدني", "domain": "code_switching", "word_count": 5, "contains_code_switching": true}
+{"id": "eg_0033", "text": "العربية واقفة بقالها ساعة في الزحمة", "domain": "transportation", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0034", "text": "هاتلي كشري كبير بس يكون سخن وطازة لو سمحت", "domain": "food_ordering", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0035", "text": "بص يا عم انا بحاول اخلص اللي ورايا ومش فاضي للكلام ده", "domain": "casual_chat", "word_count": 12, "contains_code_switching": false}
+{"id": "eg_0036", "text": "اليوم كله meetings وصداع", "domain": "work", "word_count": 4, "contains_code_switching": true}
+{"id": "eg_0037", "text": "اليوم كان صعب وخلاني زعلان", "domain": "emotions", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0038", "text": "ممكن تبعتلي برجر دوبل بسرعة عشان انا جعان جدا", "domain": "food_ordering", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0039", "text": "انا مرهق دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0040", "text": "الاهلي كان عامل ماتش تحفة بصراحة", "domain": "football", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0041", "text": "اليوم كان صعب وخلاني متوتر", "domain": "emotions", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0042", "text": "جون عبدالله السعيد قلب الماتش", "domain": "football", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0043", "text": "بقولك ايه انا تعبان شوية من الصبح", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0044", "text": "انا مخنوق دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0045", "text": "عايز اطلب شاورما فراخ مع شاي بالنعناع لو ينفع كده", "domain": "food_ordering", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0046", "text": "شوفت هدف زيزو امبارح كان حاجة مش طبيعية", "domain": "football", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0047", "text": "هو انت فاهم اللي بيحصل ولا بتتكلم جد؟", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0048", "text": "بص يا عم انا نازل دلوقتي من البيت ومش فاضي للكلام ده", "domain": "casual_chat", "word_count": 12, "contains_code_switching": false}
+{"id": "eg_0049", "text": "والله يا صاحبي انا نازل دلوقتي من البيت النهارده", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0050", "text": "يعني انت شايف اني مش حلو خالص كده ولا ايه", "domain": "casual_chat", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0051", "text": "نفسي اكل برجر دوبل من زمان", "domain": "food_ordering", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0052", "text": "انا كنت زهقان جدا بس دلوقتي الوضع اتغير", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0053", "text": "نفسي اكل فراخ مشوية من زمان", "domain": "food_ordering", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0054", "text": "انا مضغوط في الشغل دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0055", "text": "انا تعبان شوية دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0056", "text": "نفسي اكل كشري كبير من زمان", "domain": "food_ordering", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0057", "text": "عايز وجبة كشري كبير ومعاها عصير برتقان كبير", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0058", "text": "مش فاهم انت وصلت للنقطة دي ازاي بصراحة", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0059", "text": "عايز اطلب شاورما فراخ مع قهوة ساقعة لو ينفع كده", "domain": "food_ordering", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0060", "text": "عايز وجبة برجر دوبل ومعاها بيبسي ساقع كبير", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0061", "text": "والله يا صاحبي انا مشغول جدا اليومين دول النهارده", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0062", "text": "هو انت حاسس باللي بقوله ولا بتتكلم جد؟", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0063", "text": "مش فاهم انت حاسس باللي بقوله ازاي بصراحة", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0064", "text": "انا مركز بصعوبة دلوقتي ومش عارف أركز خالص", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0065", "text": "لو سمحت ابعتلي برجر دوبل قبل ما انام", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0066", "text": "هات ساندوتش سجق وكمان عصير برتقان ساقع", "domain": "food_ordering", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0067", "text": "مش لاقي الemail ممكن تساعدني", "domain": "code_switching", "word_count": 5, "contains_code_switching": true}
+{"id": "eg_0068", "text": "مش فاهم انت مستوعب الكلام ازاي بصراحة", "domain": "casual_chat", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0069", "text": "مش قادر ابطل تفكير وحاسس اني مضغوط في الشغل", "domain": "emotions", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0070", "text": "هو انت وصلت للنقطة دي ولا بتتكلم جد؟", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0071", "text": "الحكم كان نار وده اثر على اللعب", "domain": "football", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0072", "text": "لو سمحت ابعتلي شاورما فراخ قبل ما انام", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0073", "text": "الاهلي كان عامل ماتش ممل شوية بصراحة", "domain": "football", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0074", "text": "يعني انت شايف اني تحفة كده ولا ايه", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0075", "text": "ابعتلي الmeeting بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0076", "text": "الاهلي كان عامل ماتش ضعيف بصراحة", "domain": "football", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0077", "text": "بص يا عم انا مشغول جدا اليومين دول ومش فاضي للكلام ده", "domain": "casual_chat", "word_count": 12, "contains_code_switching": false}
+{"id": "eg_0078", "text": "هات ساندوتش سجق وكمان شاي بالنعناع ساقع", "domain": "food_ordering", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0079", "text": "انا مبسوط جدا ومش عارف اتعامل مع الموقف ده", "domain": "emotions", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0080", "text": "عايز اطلب بيتزا مارجريتا مع عصير مانجا لو ينفع كده", "domain": "food_ordering", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0081", "text": "مش قادر ابطل تفكير وحاسس اني زهقان جدا", "domain": "emotions", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0082", "text": "بص يا عم انا هتأخر شوية في الرد ومش فاضي للكلام ده", "domain": "casual_chat", "word_count": 12, "contains_code_switching": false}
+{"id": "eg_0083", "text": "شوفت هدف الشحات امبارح كان حاجة مش طبيعية", "domain": "football", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0084", "text": "ابعتلي email او الdocument لو جاهز", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0085", "text": "الحكم كان تحفة وده اثر على اللعب", "domain": "football", "word_count": 7, "contains_code_switching": false}
+{"id": "eg_0086", "text": "الاهلي كان عامل ماتش عظمة بصراحة", "domain": "football", "word_count": 6, "contains_code_switching": false}
+{"id": "eg_0087", "text": "ابعتلي الfile بسرعة عشان محتاجه دلوقتي", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0088", "text": "هجيلك بعد 20 دقيقة بس ممكن اتأخر شوية", "domain": "transportation", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0089", "text": "لو سمحت ابعتلي كشري كبير قبل ما انام", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0090", "text": "انا كنت مركز بصعوبة بس دلوقتي الوضع اتغير", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0091", "text": "عندي call مهم بعد شوية ولازم اكون جاهز", "domain": "work", "word_count": 8, "contains_code_switching": true}
+{"id": "eg_0092", "text": "يعني انت شايف اني عظمة كده ولا ايه", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0093", "text": "ابعتلي email او الfile لو جاهز", "domain": "code_switching", "word_count": 6, "contains_code_switching": true}
+{"id": "eg_0094", "text": "انا كنت تايه شوية بس دلوقتي الوضع اتغير", "domain": "casual_chat", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0095", "text": "لسه فاضلي ربع ساعة واوصل", "domain": "transportation", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0096", "text": "عايز اطلب ساندوتش سجق مع شاي بالنعناع لو ينفع كده", "domain": "food_ordering", "word_count": 10, "contains_code_switching": false}
+{"id": "eg_0097", "text": "لسه فاضلي 10 دقايق واوصل", "domain": "transportation", "word_count": 5, "contains_code_switching": false}
+{"id": "eg_0098", "text": "عايز وجبة بيتزا مارجريتا ومعاها قهوة ساقعة كبير", "domain": "food_ordering", "word_count": 8, "contains_code_switching": false}
+{"id": "eg_0099", "text": "والله يا صاحبي انا بحاول اخلص اللي ورايا النهارده", "domain": "casual_chat", "word_count": 9, "contains_code_switching": false}
+{"id": "eg_0100", "text": "هاتلي برجر دوبل بس يكون سخن وطازة لو سمحت", "domain": "food_ordering", "word_count": 9, "contains_code_switching": false}

@@ -1,0 +1,5 @@
+{"audio": "data/audio/eg_0083.mp3", "text": "شوفت هدف الشحات امبارح كان حاجة مش طبيعية", "domain": "football", "duration": 3.2, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0030.mp3", "text": "الماتش امبارح كان تحفة", "domain": "football", "duration": 1.6, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0017.mp3", "text": "الدنيا زحمة اوي النهارده", "domain": "transportation", "duration": 1.6, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0023.mp3", "text": "محتاج الlink ضروري حالاً", "domain": "code_switching", "duration": 1.6, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
+{"audio": "data/audio/eg_0035.mp3", "text": "بص يا عم انا بحاول اخلص اللي ورايا ومش فاضي للكلام ده", "domain": "casual_chat", "duration": 4.8, "dialect": "egyptian_arabic", "source": "synthetic", "quality_score": 1.0, "warnings": []}
