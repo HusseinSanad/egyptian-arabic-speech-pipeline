@@ -1,6 +1,7 @@
 ## Egyptian Arabic Speech Dataset Pipeline (S.S.D.P.)
 
-##Overview
+## Overview
+
 End-to-end pipeline for generating a high-quality Egyptian Arabic speech dataset for ASR/STT training.
 The system covers:
 •   Synthetic prompt generation (templates + optional LLM) 
@@ -9,7 +10,8 @@ The system covers:
 •   Dataset export (train/val/test) 
 The main goal is to produce clean, diverse, and linguistically realistic Egyptian Arabic speech data.
   
-##System Architecture
+## System Architecture
+
 Prompt Generation
         ↓
 TTS Synthesis (ElevenLabs)
@@ -22,7 +24,7 @@ Filtered Dataset Export
         ↓
 Train / Validation / Test Split
 
-##Project Structure
+## Project Structure
 
 configs/
     config.yaml
@@ -58,7 +60,8 @@ python -m streamlit run pipeline/review_tool.py
 
 python pipeline/export_dataset.py
 
-##Pipeline Stages
+## Pipeline Stages
+
 1. Prompt Generation
 Generates Egyptian Arabic sentences using:
 •   Template-based generation (structured + controlled) 
@@ -94,7 +97,8 @@ data/train.jsonl
 data/val.jsonl
 data/test.jsonl
 
-##Egyptian Arabic Challenges
+## Egyptian Arabic Challenges
+
 1. Code-Switching
 Mix of Arabic + English affects pronunciation and alignment.
 2. Dialect Variation
@@ -109,8 +113,8 @@ Frequent short phrases like “تمام”, “ماشي”, “حاضر”.
 Mispronunciation of slang, English borrowings, and informal speech.
 ________________________________________
 
- ##Synthetic Data Risks
-
+ ## Synthetic Data Risks
+ 
 1. Overfitting to TTS Voice
 Single voice reduces generalization to real speakers.
 2. Lack of Prosody Diversity
@@ -120,13 +124,15 @@ Template bias may reduce linguistic richness.
 4. Domain Imbalance
 Over-representation of casual speech.
 ________________________________________
- ##Mitigation Strategies
+ ## Mitigation Strategies
+ 
 •   Hybrid generation (templates + LLM) 
 •   Human review filtering 
 •   Domain-weighted prompts 
 •   Resumable and controlled synthesis 
 ________________________________________
- ##Quality Control System
+## Quality Control System
+
 A sample is rejected if:
 •   Audio is noisy or distorted 
 •   Mispronunciation affects meaning 
